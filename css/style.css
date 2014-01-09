@@ -271,8 +271,7 @@ body > header.contain-to-grid {
 }
 
 #content {
-  background-color: #fff;
-  border: 1px solid #ddd;
+  background-color: transparent;
 }
 
 .index-card {
@@ -520,7 +519,7 @@ footer.full-width .love-reverie {
 }
 @media only screen and (min-width: 40.063em) {
   #content {
-    padding: 3.125rem;
+/*    padding: 3.125rem;*/
   }
 
   .entry-author {

@@ -6586,3 +6586,19 @@ header .logo {
   width: 50%;
   float: left;
 }
+/*custom appartement16*/
+/*align*/
+.center{
+    text-align:center;
+}
+/*padding*/
+.padding-image{
+    padding:5px 35px 5px 35px;
+}
+/*background color*/
+.backgrd-black{
+    background-color:black;
+}
+.backgrd-white{
+    background-color:white;
+}
